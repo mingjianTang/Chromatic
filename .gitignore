@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+dist/
+storybook-static/
+npm-debug.log
+yarn-error.log
+tests/unit/__snapshots__
+tests/unit/coverage
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
